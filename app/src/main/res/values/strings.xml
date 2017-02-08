@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+
+    <!-- Movie order sorting menu options -->
+    <string name="setting_sort_most_popular">Most Popular</string>
+    <string name="setting_sort_top_rated">Top Rated</string>
+
+    <!-- menu name -->
+    <string name="menu_sort">Sort</string>
+
+    <!-- error message -->
+    <string name = "error_message">Could not fetch information. Please try again later.</string>
+</resources>
